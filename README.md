@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Material Arts! 
 - 🌱 I’m currently trying to learn everything 😅
 - :star2: Member of the "Ionian IEEE Student Branch"
-- 📫 How to connect with me -> [LinkedIn](https://www.linkedin.com/in/stamatis-petrou-196737228/)
+- 📫 How to connect with me -> [LinkedIn](https://www.linkedin.com/in/stamatis-petrou/)
 
 <!---
 stamathsp/stamathsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
