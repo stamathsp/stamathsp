@@ -1,5 +1,5 @@
 - 👋 Hi there, My name is @stamathsp
-- 👀 I’m interested in Programming and Material Arts! 
+- 👀 I’m interested in Programming and Chess! 
 - 🌱 I’m currently trying to learn everything 😅
 - :star2: Member of the "Ionian IEEE Student Branch"
 - 📫 How to connect with me -> [LinkedIn](https://www.linkedin.com/in/stamatis-petrou/)
