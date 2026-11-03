@@ -1,4 +1,4 @@
-- 👋 Hi there, My name is @stamathsp
+- 👋 Hi there, My name is stamatis
 - 👀 I’m interested in Offensive Security, privacy engineering and Chess! 
 - 🌱 I’m currently trying to learn everything 😅
 - :star2: Member of the Ionian University IEEE Student Branch
